@@ -14,6 +14,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Korolev stats](https://github-readme-stats.vercel.app/api?username=korolev124&show_icons=true&theme=dracula)
+![Korolev stats](https://github-readme-stats.vercel.app/api?username=korolev124&show_icons=true&theme=synthwave)
 
-![Korolev langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korolev124&hide_progress=true&theme=dracula&layout=compact)
+![Korolev langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korolev124&hide_progress=true&theme=synthwave&layout=compact)
