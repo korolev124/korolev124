@@ -16,4 +16,4 @@
 
 ![Korolev stats](https://github-readme-stats.vercel.app/api?username=korolev124&show_icons=true&theme=synthwave)
 
-![Korolev langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korolev124&hide_progress=true&theme=synthwave&layout=compact)
+![Korolev langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korolev124&theme=synthwave&layout=compact)
